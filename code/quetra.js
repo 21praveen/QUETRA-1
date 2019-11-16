@@ -1,3 +1,5 @@
+//Copyright (c) 2018-2019 by Atlastream Pte. Ltd. All rights reserved.
+
 import SwitchRequest from '../SwitchRequest.js';
 import BufferController from '../../controllers/BufferController.js';
 import AbrController from '../../controllers/AbrController.js';
